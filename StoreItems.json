@@ -38,7 +38,7 @@
 	},
 	{
 		"abr": "cloth",
-		"price": 2,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "Cloth"
 	},
@@ -68,7 +68,7 @@
 	},
 	{
 		"abr": "devilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth"
 	},
@@ -614,19 +614,19 @@
 	},
 	{
 		"abr": "hops",
-		"price": 2,
+		"price": -10,
 		"category": "Plant matter",
 		"defname": "RawHops"
 	},
 	{
 		"abr": "smokeleafleaves",
-		"price": 3,
+		"price": -10,
 		"category": "Plant matter",
 		"defname": "SmokeleafLeaves"
 	},
 	{
 		"abr": "psychoidleaves",
-		"price": 3,
+		"price": -10,
 		"category": "Plant matter",
 		"defname": "PsychoidLeaves"
 	},
@@ -1772,25 +1772,25 @@
 	},
 	{
 		"abr": "psychicshocklance",
-		"price": -10,
+		"price": 10000,
 		"category": "Artifacts",
 		"defname": "PsychicShockLance"
 	},
 	{
 		"abr": "psychicsoothepulser",
-		"price": -10,
+		"price": 10000,
 		"category": "Artifacts",
 		"defname": "PsychicSoothePulser"
 	},
 	{
 		"abr": "psychicinsanitylance",
-		"price": -10,
+		"price": 10000,
 		"category": "Artifacts",
 		"defname": "PsychicInsanityLance"
 	},
 	{
 		"abr": "psychicanimalpulser",
-		"price": -10,
+		"price": 10000,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser"
 	},
@@ -5708,307 +5708,307 @@
 	},
 	{
 		"abr": "camelwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolCamel"
 	},
 	{
 		"abr": "heavyshieldbelt",
-		"price": 1025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparel_HeavyShieldBelt"
 	},
 	{
 		"abr": "quick-rechargeshieldbelt",
-		"price": 900,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparel_QRShieldBelt"
 	},
 	{
 		"abr": "rangedshieldbelt",
-		"price": 2283,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparel_RangedShieldBelt"
 	},
 	{
 		"abr": "advanacedpoweredfloor",
-		"price": 958,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PFPM_fasterfloorftl"
 	},
 	{
 		"abr": "miniquarry",
-		"price": 260,
+		"price": -10,
 		"category": "Misc",
 		"defname": "QRY_MiniQuarry"
 	},
 	{
 		"abr": "poweredfloor",
-		"price": 458,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PFPM_fasterfloor"
 	},
 	{
 		"abr": "quarry",
-		"price": 617,
+		"price": -10,
 		"category": "Misc",
 		"defname": "QRY_Quarry"
 	},
 	{
 		"abr": "quarryplatform",
-		"price": 168,
+		"price": -10,
 		"category": "Misc",
 		"defname": "QRY_Platform"
 	},
 	{
 		"abr": "reinforcedautodoor",
-		"price": 311,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WDReinforcedAutodoor"
 	},
 	{
 		"abr": "reinforceddoor",
-		"price": 171,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WDReinforcedDoor"
 	},
 	{
 		"abr": "ballotbox",
-		"price": 101,
+		"price": -10,
 		"category": "Misc",
 		"defname": "BallotBox"
 	},
 	{
 		"abr": "chalkboard",
-		"price": 500,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ChalkboardCL"
 	},
 	{
 		"abr": "rimworldglobe",
-		"price": 333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GlobeCL"
 	},
 	{
 		"abr": "teachertable",
-		"price": 253,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TeachingSpot"
 	},
 	{
 		"abr": "burlap",
-		"price": 2,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "INS_Burlap"
 	},
 	{
 		"abr": "insulatedautodoor(biomass)",
-		"price": 342,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSDoor_Biomass"
 	},
 	{
 		"abr": "insulatedautodoor(fibre)",
-		"price": 417,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSDoor_Fibre"
 	},
 	{
 		"abr": "insulatedautodoor(hyper)",
-		"price": 933,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSDoor_Hyper"
 	},
 	{
 		"abr": "insulatedautodoor(polymer)",
-		"price": 450,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSDoor_Polymer"
 	},
 	{
 		"abr": "insulateddoor(biomass)",
-		"price": 123,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSDoorSimple_Biomass"
 	},
 	{
 		"abr": "insulateddoor(fibre)",
-		"price": 198,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSDoorSimple_Fibre"
 	},
 	{
 		"abr": "insulateddoor(hyper)",
-		"price": 717,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSDoorSimple_Hyper"
 	},
 	{
 		"abr": "insulateddoor(polymer)",
-		"price": 226,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSDoorSimple_Polymer"
 	},
 	{
 		"abr": "insulatedwall(biomass)",
-		"price": 36,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSWall_Biomass"
 	},
 	{
 		"abr": "insulatedwall(fibres)",
-		"price": 74,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSWall_Fibre"
 	},
 	{
 		"abr": "insulatedwall(hyper)",
-		"price": 331,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSWall_Hyper"
 	},
 	{
 		"abr": "insulatedwall(polymers)",
-		"price": 88,
+		"price": -10,
 		"category": "Misc",
 		"defname": "INSWall_Polymer"
 	},
 	{
 		"abr": "insulationslab(biomass)",
-		"price": 5,
+		"price": -10,
 		"category": "Insulation materials",
 		"defname": "INSSlab_Biomass"
 	},
 	{
 		"abr": "insulationslab(fibres)",
-		"price": 12,
+		"price": -10,
 		"category": "Insulation materials",
 		"defname": "INSSlab_Fibre"
 	},
 	{
 		"abr": "insulationslab(hyper)",
-		"price": 64,
+		"price": -10,
 		"category": "Insulation materials",
 		"defname": "INSSlab_Hyper"
 	},
 	{
 		"abr": "insulationslab(polymers)",
-		"price": 15,
+		"price": -10,
 		"category": "Insulation materials",
 		"defname": "INSSlab_Polymer"
 	},
 	{
 		"abr": "invisiblepowerconduit",
-		"price": 3,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PowerConduitInvisible"
 	},
 	{
 		"abr": "ancientjohnson-tanakadrive",
-		"price": 12208,
+		"price": -10,
 		"category": "Misc",
 		"defname": "JTDriveSalvage"
 	},
 	{
 		"abr": "astromite",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Astromite"
 	},
 	{
 		"abr": "capacitorarray",
-		"price": 7750,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ShipCapacitor"
 	},
 	{
 		"abr": "cargoshuttle",
-		"price": 3925,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CargoShuttle"
 	},
 	{
 		"abr": "cargoshuttle(hovermode)",
-		"price": 7500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttleCargoRace"
 	},
 	{
 		"abr": "cosmopillar",
-		"price": 833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cosmopillar"
 	},
 	{
 		"abr": "crittersleepcaskets(32)",
-		"price": 4275,
+		"price": -10,
 		"category": "Misc",
 		"defname": "CrittersleepCasketLarge"
 	},
 	{
 		"abr": "crittersleepcaskets(8)",
-		"price": 1242,
+		"price": -10,
 		"category": "Misc",
 		"defname": "CrittersleepCasket"
 	},
 	{
 		"abr": "cryptonest",
-		"price": 558,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Cryptonest"
 	},
 	{
 		"abr": "evahelmet",
-		"price": 908,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_SpaceSuitHelmet"
 	},
 	{
 		"abr": "evasuit",
-		"price": 1150,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparel_SpaceSuitBody"
 	},
 	{
 		"abr": "hardpoint",
-		"price": 567,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipHardpoint"
 	},
 	{
 		"abr": "heavycargoshuttle",
-		"price": 6292,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "HeavyShuttle"
 	},
 	{
 		"abr": "heavycargoshuttle(hovermode)",
-		"price": 16667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttleHeavyRace"
 	},
 	{
 		"abr": "heavyevahelmet",
-		"price": 1717,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_SpaceSuitHelmetHeavy"
 	},
 	{
 		"abr": "heavyevasuit",
-		"price": 4117,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparel_SpaceSuitBodyHeavy"
 	},
 	{
 		"abr": "hullplating",
-		"price": 33,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipHullTile"
 	},
 	{
 		"abr": "hullwreckage",
-		"price": 19,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipHullTileWrecked"
 	},
@@ -6020,121 +6020,121 @@
 	},
 	{
 		"abr": "johnson-tanakadrive",
-		"price": 12208,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ship_Engine_Interplanetary"
 	},
 	{
 		"abr": "largehardpoint",
-		"price": 2275,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipHardpointLarge"
 	},
 	{
 		"abr": "personalshuttle",
-		"price": 1792,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "PersonalShuttle"
 	},
 	{
 		"abr": "personalshuttle(hovermode)",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttlePersonalRace"
 	},
 	{
 		"abr": "shipbridge",
-		"price": 1200,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ShipPilotSeat"
 	},
 	{
 		"abr": "shipsalvage",
-		"price": 1758,
+		"price": -10,
 		"category": "Special",
 		"defname": "ShipChunkSalvage"
 	},
 	{
 		"abr": "shuttlebay",
-		"price": 3575,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipShuttleBay"
 	},
 	{
 		"abr": "stellapede",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Stellapede"
 	},
 	{
 		"abr": "uraniumfuelpod",
-		"price": 5,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "ShuttleFuelPods"
 	},
 	{
 		"abr": "weathernormalizationdevice",
-		"price": 2000,
+		"price": 10000,
 		"category": "Artifacts",
 		"defname": "WeatherCancelDevice"
 	},
 	{
 		"abr": "aimanager",
-		"price": 7833,
+		"price": -10,
 		"category": "Production",
 		"defname": "FM_AIManager"
 	},
 	{
 		"abr": "basicmanagerdesk",
-		"price": 262,
+		"price": -10,
 		"category": "Production",
 		"defname": "FM_BasicManagerStation"
 	},
 	{
 		"abr": "managerdesk",
-		"price": 508,
+		"price": -10,
 		"category": "Production",
 		"defname": "FM_ManagerStation"
 	},
 	{
 		"abr": "tradereportslog",
-		"price": 321,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ASReportsLog"
 	},
 	{
 		"abr": "tradereportsprinter",
-		"price": 317,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ASReportsPrinter"
 	},
 	{
 		"abr": "adegancrystal(green)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_AdeganCrystal"
 	},
 	{
 		"abr": "ambansinperrifle",
-		"price": 5000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Amban_Rifle"
 	},
 	{
 		"abr": "ankarressapphire(dkblue)",
-		"price": 8333,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_AnkSapphire"
 	},
 	{
 		"abr": "arcsergeantphaseihelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_ARC1_Helmet"
 	},
 	{
 		"abr": "b-1battledroid",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Battle_Droid"
 	},
@@ -6146,7 +6146,7 @@
 	},
 	{
 		"abr": "b-1droidspecialist",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "B-1_Droid_Specialist"
 	},
@@ -6158,7 +6158,7 @@
 	},
 	{
 		"abr": "b-1_commander_droid",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "B-1_Commander_Droid"
 	},
@@ -6170,7 +6170,7 @@
 	},
 	{
 		"abr": "b-2superbattledroid",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Super_Battle_Droid"
 	},
@@ -6182,25 +6182,25 @@
 	},
 	{
 		"abr": "b-2superdroidwristblaster",
-		"price": 2500,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "B-2_Super_Droid_Wrist_Blaster"
 	},
 	{
 		"abr": "b-2superdroidwristcannon",
-		"price": 2183,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "B-2_Super_Droid_Wrist_Cannon"
 	},
 	{
 		"abr": "baraboreingot(orange)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_BarabIngot"
 	},
 	{
 		"abr": "bxdroidcommando",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BX_Droid_Commando"
 	},
@@ -6212,139 +6212,139 @@
 	},
 	{
 		"abr": "colorcrystal(azure)",
-		"price": 150,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalAzure"
 	},
 	{
 		"abr": "colorcrystal(blue)",
-		"price": 150,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalBlue"
 	},
 	{
 		"abr": "colorcrystal(cyan)",
-		"price": 150,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalCyan"
 	},
 	{
 		"abr": "colorcrystal(green)",
-		"price": 150,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystal"
 	},
 	{
 		"abr": "colorcrystal(purple)",
-		"price": 150,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalPurple"
 	},
 	{
 		"abr": "colorcrystal(yellow)",
-		"price": 150,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalYellow"
 	},
 	{
 		"abr": "commanderphaseihelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_Commander_Helmet"
 	},
 	{
 		"abr": "commandokatarn-classarmor",
-		"price": 2575,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Commando_Katarn_Armor"
 	},
 	{
 		"abr": "commandokatarn-classhelmet",
-		"price": 1775,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Commando_Katarn_Helmet"
 	},
 	{
 		"abr": "customhood",
-		"price": 417,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PJ_CustomHood"
 	},
 	{
 		"abr": "damindcrystal(ltazure)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_DamindCrystal"
 	},
 	{
 		"abr": "darthrevanarmor",
-		"price": 2508,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Darth_Revan_Armor"
 	},
 	{
 		"abr": "darthrevanhelmet",
-		"price": 1508,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Darth_Revan_Helmet"
 	},
 	{
 		"abr": "dc-15ablasterrifle",
-		"price": 5000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "DC-15A_Blaster_Rifle"
 	},
 	{
 		"abr": "dc-15sblastercarbine",
-		"price": 3750,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "DC-15S_Blaster_Carbine"
 	},
 	{
 		"abr": "dc15xsinperrifle",
-		"price": 5000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "DC15x_Sinper_Rifle"
 	},
 	{
 		"abr": "dc-17blasterpistol",
-		"price": 2500,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "DC-17_Blaster_Pistol"
 	},
 	{
 		"abr": "dc-17bblasterpistol",
-		"price": 2750,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "DC17B_Blaster_Pistol"
 	},
 	{
 		"abr": "dc-17mrepeatingblasterrifle",
-		"price": 4167,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "DC-17M_Repeating_Blaster_Rifle"
 	},
 	{
 		"abr": "doublelightsaber(inquisitor)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_Inquis"
 	},
 	{
 		"abr": "dragitecrystal(ltpurple)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_DragiteCrystal"
 	},
 	{
 		"abr": "droidekas",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Droidekas"
 	},
 	{
 		"abr": "droidekasblaster",
-		"price": 2500,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Droidekas_Blaster"
 	},
@@ -6356,13 +6356,13 @@
 	},
 	{
 		"abr": "e-5blasterrifle",
-		"price": 2233,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "E-5_Blaster_Rifle"
 	},
 	{
 		"abr": "e-5ssniperrifle",
-		"price": 5000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "E-5S_Sniper_Rifle"
 	},
@@ -6374,31 +6374,31 @@
 	},
 	{
 		"abr": "ee-3carbinerifle",
-		"price": 2233,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "EE-3_Carbine_Rifle"
 	},
 	{
 		"abr": "electrostaff",
-		"price": 2483,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "Electrostaff"
 	},
 	{
 		"abr": "eralamcrystal(silver)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_EralamCrystal"
 	},
 	{
 		"abr": "ewok",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "StarWarsRaces_Ewok"
 	},
 	{
 		"abr": "ewokhood",
-		"price": 56,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "StarWarsRaces_Ewok_Hood"
 	},
@@ -6410,31 +6410,31 @@
 	},
 	{
 		"abr": "ewoktabard",
-		"price": 124,
+		"price": -10,
 		"category": "Star Wars Races - Ewok",
 		"defname": "StarWarsRaces_Ewok_Parka"
 	},
 	{
 		"abr": "firkranncrystal(silver)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_FirkrannCrystal"
 	},
 	{
 		"abr": "havocsquadarmour",
-		"price": 2542,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Havoc_Squad_armour"
 	},
 	{
 		"abr": "havocsquadhelmet",
-		"price": 1692,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Havoc_Squad_helmet"
 	},
 	{
 		"abr": "honorguardsaberstaff",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_JGuard"
 	},
@@ -6446,13 +6446,13 @@
 	},
 	{
 		"abr": "hurrikainecrystal(indigopurple)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_HurCrystal"
 	},
 	{
 		"abr": "ig-100magnaguard",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "IG-100_Magnaguard"
 	},
@@ -6464,1243 +6464,1243 @@
 	},
 	{
 		"abr": "jedigarb",
-		"price": 197,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PJ_InnerRobes"
 	},
 	{
 		"abr": "jedihood",
-		"price": 417,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PJ_JediHood"
 	},
 	{
 		"abr": "jedirobe",
-		"price": 458,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PJ_Jedi_Robe"
 	},
 	{
 		"abr": "kaiburrcrystal(red-orange)",
-		"price": 8333,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_KaiburrCrystal"
 	},
 	{
 		"abr": "kraytdragonpearl(black)",
-		"price": 8333,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_BlackPearl"
 	},
 	{
 		"abr": "lightsaber(ahsokatano)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_Ahsokasaber"
 	},
 	{
 		"abr": "lightsaber(crosshilt)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_KyloSaber"
 	},
 	{
 		"abr": "lightsaber(curvedhilt)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_DookuSaber"
 	},
 	{
 		"abr": "lightsaber(darksaber)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_Darksaber"
 	},
 	{
 		"abr": "lightsaber(double)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_Doublesaber"
 	},
 	{
 		"abr": "lightsaber(electrumhilt)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_ElectrumSaber"
 	},
 	{
 		"abr": "lightsaber(macewindu)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_MaceSaber"
 	},
 	{
 		"abr": "lightsaber(oldstylehilt)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_ObiSaber"
 	},
 	{
 		"abr": "lightsaber(prototype)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_Lightsaber"
 	},
 	{
 		"abr": "lightsaber(qui-gonjinn)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_Quigon"
 	},
 	{
 		"abr": "lightsaber(yoda)",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_Yodasaber"
 	},
 	{
 		"abr": "lightsabercasing",
-		"price": 500,
+		"price": -10,
 		"category": "Items",
 		"defname": "PJ_SaberCasing"
 	},
 	{
 		"abr": "lightsaberinternalcomponents",
-		"price": 500,
+		"price": -10,
 		"category": "Items",
 		"defname": "PJ_SaberInternal"
 	},
 	{
 		"abr": "lightsaberpike",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SWSaber_SaberPike"
 	},
 	{
 		"abr": "mandalorianbagbeltv.00",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_00_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.01",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_01_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.02",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_02_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.03",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_03_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.05",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_05_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.06",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_06_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.06",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_07_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.08",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_08_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.09",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_09_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.10",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_10_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.11",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_11_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.12",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_12_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.13",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_13_Bagbelt"
 	},
 	{
 		"abr": "mandalorianbagbeltv.14",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_14_Bagbelt"
 	},
 	{
 		"abr": "mandalorianchestplatev.00",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_00_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.01",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_01_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.02",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_02_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.03",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_03_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.05",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_05_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.06",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_06_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.06",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_07_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.08",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_08_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.09",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_09_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.10",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_10_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.11",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_11_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.12",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_12_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.13",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_13_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.14",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_14_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.15",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_15_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.16",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_16_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.17",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_17_ChestPlate"
 	},
 	{
 		"abr": "mandalorianchestplatev.18",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_18_ChestPlate"
 	},
 	{
 		"abr": "mandalorianhelmetv.0",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_00_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.1",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_01_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.10",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_10_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.11",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_11_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.12",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_12_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.13",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_13_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.14",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_14_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.15",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_15_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.16",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_16_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.17",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_17_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.18",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_18_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.19",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_19_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.2",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_02_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.20",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_20_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.3",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_03_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.4",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_04_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.5",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_05_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.6",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_06_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.7",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_07_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.8",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_08_Helmet"
 	},
 	{
 		"abr": "mandalorianhelmetv.9",
-		"price": 1367,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mandalorian_09_Helmet"
 	},
 	{
 		"abr": "mandalorianpauldronv.00",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_00_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.01",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_01_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.02",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_02_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.03",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_03_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.04",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_04_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.05",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_05_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.06",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_06_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.07",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_07_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.08",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_08_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.09",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_09_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.10",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_10_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.11",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_11_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.12",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_12_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.13",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_13_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.14",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_14_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.15",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_15_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.16",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_16_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.17",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_17_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.18",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_18_Pauldron"
 	},
 	{
 		"abr": "mandalorianpauldronv.19",
-		"price": 2317,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_19_Pauldron"
 	},
 	{
 		"abr": "mandalorianplatelegv.00",
-		"price": 2342,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_00_Plateleg"
 	},
 	{
 		"abr": "mandalorianplatelegv.01",
-		"price": 2342,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_01_Plateleg"
 	},
 	{
 		"abr": "mandalorianplatelegv.02",
-		"price": 2342,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_02_Plateleg"
 	},
 	{
 		"abr": "mandalorian4bagbelt",
-		"price": 265,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_04_Bagbelt"
 	},
 	{
 		"abr": "mandalorian4chestplate",
-		"price": 2025,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mandalorian_04_ChestPlate"
 	},
 	{
 		"abr": "mando'sblastercarbine",
-		"price": 5000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Mando_Blaster_Carbine"
 	},
 	{
 		"abr": "mando'sheavyweapon",
-		"price": 3200,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Mando_Heavy_Weapon"
 	},
 	{
 		"abr": "meditationpad(jedi)",
-		"price": 147,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "PJ_ForceMedPadJ"
 	},
 	{
 		"abr": "meditationpad(sith)",
-		"price": 147,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "PJ_ForceMedPadS"
 	},
 	{
 		"abr": "oldsithtrooperarmor",
-		"price": 3292,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Old_Sith_Trooper_Armor"
 	},
 	{
 		"abr": "oldsithtrooperhelmet",
-		"price": 1692,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Old_Sith_Trooper_Helmet"
 	},
 	{
 		"abr": "pazvizlaarmor",
-		"price": 4425,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Paz_Vizla_Armor"
 	},
 	{
 		"abr": "pazvizlahelmet",
-		"price": 1267,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Paz_Vizla_Helmet"
 	},
 	{
 		"abr": "pazvizlajetpack",
-		"price": 4608,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PazVizla_Jetpack"
 	},
 	{
 		"abr": "phaseiarccaptainarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PhaseI_ARC3_Armor"
 	},
 	{
 		"abr": "phaseiarccaptainhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_ARC3_Helmet"
 	},
 	{
 		"abr": "phaseiarccommanderarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PhaseI_ARC4_Armor"
 	},
 	{
 		"abr": "phaseiarccommanderhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_ARC4_Helmet"
 	},
 	{
 		"abr": "phaseiarclieutenantarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PhaseI_ARC2_Armor"
 	},
 	{
 		"abr": "phaseiarclieutenanthelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_ARC2_Helmet"
 	},
 	{
 		"abr": "phaseiarcsergeantarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PhaseI_ARC1_Armor"
 	},
 	{
 		"abr": "phaseiarfhelmet",
-		"price": 1775,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_ARF_Helmet"
 	},
 	{
 		"abr": "phaseicaptainarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PhaseI_Captain_Armor"
 	},
 	{
 		"abr": "phaseicaptainhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_Captain_Helmet"
 	},
 	{
 		"abr": "phaseicoldassaultarmor",
-		"price": 2550,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PhaseI_ColdAssault_Armor"
 	},
 	{
 		"abr": "phaseicoldassaulthelmet",
-		"price": 1775,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_ColdAssaultPhaseI_Helmet"
 	},
 	{
 		"abr": "phaseicommanderarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PhaseI_Commander_Armor"
 	},
 	{
 		"abr": "phaseilieutenantarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PhaseI_Lieutenant_Armor"
 	},
 	{
 		"abr": "phaseilieutenanthelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_Lieutenant_Helmet"
 	},
 	{
 		"abr": "phaseipilothelmet",
-		"price": 1775,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_Pilot_Helmet"
 	},
 	{
 		"abr": "phaseisergeantarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PhaseI_Sergeant_Armor"
 	},
 	{
 		"abr": "phaseisergeanthelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_Sergeant_Helmet"
 	},
 	{
 		"abr": "phaseispecialopshelmet",
-		"price": 1108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_Special_Ops_Helmet"
 	},
 	{
 		"abr": "phaseistandardarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PhaseI_Standard_Armor"
 	},
 	{
 		"abr": "phaseistandardhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseI_Standard_Helmet"
 	},
 	{
 		"abr": "phaseii104tharmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_104th_Armor"
 	},
 	{
 		"abr": "phaseii104thboosthelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_104th_Boost_Helmet"
 	},
 	{
 		"abr": "phaseii104thhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_104th_Helmet"
 	},
 	{
 		"abr": "phaseii104thsinkerhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_104th_Sinker_Helmet"
 	},
 	{
 		"abr": "phaseii104thwolffearmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_104th_Wolffe_Armor"
 	},
 	{
 		"abr": "phaseii104thwolffehelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_104th_Wolffe_Helmet"
 	},
 	{
 		"abr": "phaseii187tharmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_187th_Armor"
 	},
 	{
 		"abr": "phaseii187thcommanderarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_187th_Commander_Armor"
 	},
 	{
 		"abr": "phaseii187thcommanderhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_187th_Commander_Helmet"
 	},
 	{
 		"abr": "phaseii187thhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_187th_Helmet"
 	},
 	{
 		"abr": "phaseii212thairbornearmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_212th_Airborne_Armor"
 	},
 	{
 		"abr": "phaseii212thairbornehelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_212th_Airborne_Helmet"
 	},
 	{
 		"abr": "phaseii212tharmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_212th_Armor"
 	},
 	{
 		"abr": "phaseii212thboilhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_212th_Boil_Helmet"
 	},
 	{
 		"abr": "phaseii212thcodyarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_212th_Cody_Armor"
 	},
 	{
 		"abr": "phaseii212thcodyhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_212th_Cody_Helmet"
 	},
 	{
 		"abr": "phaseii212thhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_212th_Helmet"
 	},
 	{
 		"abr": "phaseii21stbacaraarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Bacara_Armor"
 	},
 	{
 		"abr": "phaseii21stgalacticmarinesarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_GalacticMarines_Armor"
 	},
 	{
 		"abr": "phaseii21stgalacticmarineshelmet",
-		"price": 1125,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_GalacticMarines_Helmet"
 	},
 	{
 		"abr": "phaseii327tharmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_327th_Armor"
 	},
 	{
 		"abr": "phaseii327thbarchelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_327th_BARC_Helmet"
 	},
 	{
 		"abr": "phaseii327thblyarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_327th_Bly_Armor"
 	},
 	{
 		"abr": "phaseii327thblyhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_327th_Bly_Helmet"
 	},
 	{
 		"abr": "phaseii327thdevissarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_327th_Deviss_Armor"
 	},
 	{
 		"abr": "phaseii327thdevisshelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_327th_Deviss_Helmet"
 	},
 	{
 		"abr": "phaseii327thhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_327th_Helmet"
 	},
 	{
 		"abr": "phaseii332ndarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_332nd_Armor"
 	},
 	{
 		"abr": "phaseii332ndfourhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_332nd_Four_Helmet"
 	},
 	{
 		"abr": "phaseii332ndhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_332nd_Helmet"
 	},
 	{
 		"abr": "phaseii332ndthreearmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_332nd_Three_Armor"
 	},
 	{
 		"abr": "phaseii332ndthreehelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_332nd_Three_Helmet"
 	},
 	{
 		"abr": "phaseii332ndtwoarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_332nd_Two_Armor"
 	},
 	{
 		"abr": "phaseii332ndtwohelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_332nd_Two_Helmet"
 	},
 	{
 		"abr": "phaseii41starmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_41st_Armor"
 	},
 	{
 		"abr": "phaseii41stcamoarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_41st_Camo_Armor"
 	},
 	{
 		"abr": "phaseii41stcamohelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_41st_Camo_Helmet"
 	},
 	{
 		"abr": "phaseii41stgreearmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_41st_Gree_Armor"
 	},
 	{
 		"abr": "phaseii41stgreehelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_41st_Gree_Helmet"
 	},
 	{
 		"abr": "phaseii41stscouthelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_41st_Scout_Helmet"
 	},
 	{
 		"abr": "phaseii501starmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_501st_Armor"
 	},
 	{
 		"abr": "phaseii501stfivesarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_501st_Fives_Armor"
 	},
 	{
 		"abr": "phaseii501stfiveshelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_501st_Fives_Helmet"
 	},
 	{
 		"abr": "phaseii501sthardcasearmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_501st_Hardcase_Armor"
 	},
 	{
 		"abr": "phaseii501sthardcasehelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_501st_Hardcase_Helmet"
 	},
 	{
 		"abr": "phaseii501sthelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_501st_Helmet"
 	},
 	{
 		"abr": "phaseii501strexarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_501st_Rex_Armor"
 	},
 	{
 		"abr": "phaseii501strexhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_501st_Rex_Helmet"
 	},
 	{
 		"abr": "phaseiiarc1helmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_ARC1_Helmet"
 	},
 	{
 		"abr": "phaseiiarfhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_ARF_Helmet"
 	},
 	{
 		"abr": "phaseiiat-rthelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_AT-RT_Helmet"
 	},
 	{
 		"abr": "phaseiibarchelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_BARC_Helmet"
 	},
 	{
 		"abr": "phaseiicoldassaultarmor",
-		"price": 2258,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_ColdAssault_Armor"
 	},
 	{
 		"abr": "phaseiicoldasssaulthelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_ColdAssault_Helmet"
 	},
 	{
 		"abr": "phaseiidesertarmor",
-		"price": 2258,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Desert_Armor"
 	},
 	{
 		"abr": "phaseiideserthelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Desert_Helmet"
 	},
 	{
 		"abr": "phaseiiengineerhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Engineer_Helmet"
 	},
 	{
 		"abr": "phaseiifoxarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Guard_Fox_Armor"
 	},
 	{
 		"abr": "phaseiifoxhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Guard_Fox_Helmet"
 	},
 	{
 		"abr": "phaseiiheavyhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Heavy_Helmet"
 	},
 	{
 		"abr": "phaseiihoundarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Guard_Hound_Armor"
 	},
 	{
 		"abr": "phaseiihoundhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Guard_Hound_Helmet"
 	},
 	{
 		"abr": "phaseiiopshelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Ops_Helmet"
 	},
 	{
 		"abr": "phaseiiparatrooperhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Paratrooper_Helmet"
 	},
 	{
 		"abr": "phaseiipilothelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Pilot_Helmet"
 	},
 	{
 		"abr": "phaseiipilotsuit",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Pilot_Suit"
 	},
 	{
 		"abr": "phaseiiscoutarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Scout_Armor"
 	},
 	{
 		"abr": "phaseiiscouthelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Scout_Helmet"
 	},
 	{
 		"abr": "phaseiishocktrooperarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Guard_ShockTrooper_Armor"
 	},
 	{
 		"abr": "phaseiishocktrooperhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Guard_ShockTrooper_Helmet"
 	},
 	{
 		"abr": "phaseiistandardarc1armor",
-		"price": 2258,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_ARC1_Armor"
 	},
 	{
 		"abr": "phaseiistandardarc2armor",
-		"price": 2258,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_ARC2_Armor"
 	},
 	{
 		"abr": "phaseiistandardarc3armor",
-		"price": 2258,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_ARC3_Armor"
 	},
 	{
 		"abr": "phaseiistandardarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Standard_Armor"
 	},
 	{
 		"abr": "phaseiistandardhelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Standard_Helmet"
 	},
 	{
 		"abr": "phaseiithirearmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Guard_Thire_Armor"
 	},
 	{
 		"abr": "phaseiithirehelmet",
-		"price": 1050,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_Guard_Thire_Helmet"
 	},
 	{
 		"abr": "phaseii41stscoutarmor",
-		"price": 2108,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PhaseII_41st_Scout_Armor"
 	},
 	{
 		"abr": "pontitecrystal(iceblue)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_PontiteCrystal"
 	},
 	{
 		"abr": "rodian",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "StarWarsRaces_Rodian"
 	},
@@ -7718,31 +7718,31 @@
 	},
 	{
 		"abr": "rubatcrystal(bronze)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_RubatCrystal"
 	},
 	{
 		"abr": "se-14lightblasterpistol",
-		"price": 2000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "SE-14_Light_Blaster_Pistol"
 	},
 	{
 		"abr": "sithhood",
-		"price": 417,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "PJ_SithHood"
 	},
 	{
 		"abr": "sithrobes",
-		"price": 458,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "PJ_Sith_Robe"
 	},
 	{
 		"abr": "supertacticaldroid",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Super_Tactical_Droid"
 	},
@@ -7754,25 +7754,25 @@
 	},
 	{
 		"abr": "syntheticcrystal(red)",
-		"price": 3000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalRed"
 	},
 	{
 		"abr": "themandoarmor",
-		"price": 3825,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Mando_Armor"
 	},
 	{
 		"abr": "themandohelmet",
-		"price": 1267,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Mando_Helmet"
 	},
 	{
 		"abr": "togruta",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "StarWarsRaces_Togruta"
 	},
@@ -7784,7 +7784,7 @@
 	},
 	{
 		"abr": "t-seriestacticaldroid",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "T-Series_Tactical_Droid"
 	},
@@ -7796,25 +7796,25 @@
 	},
 	{
 		"abr": "twi'lek",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "StarWarsRaces_Twilek"
 	},
 	{
 		"abr": "twi'lekheadwrap",
-		"price": 75,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "StarWarsRaces_TwilekHeadCovering"
 	},
 	{
 		"abr": "twi'lekheadwrapadecorativesymbol",
-		"price": 203,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "StarWarsRaces_TwilekDecorative"
 	},
 	{
 		"abr": "twi'lekheadwrapwithgoggles",
-		"price": 201,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "StarWarsRaces_TwilekGoggles"
 	},
@@ -7832,49 +7832,49 @@
 	},
 	{
 		"abr": "twi'lektuque",
-		"price": 91,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "StarWarsRaces_TwilekTuque"
 	},
 	{
 		"abr": "ultimapearl(pale)",
-		"price": 8333,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_UltimaPearl"
 	},
 	{
 		"abr": "vibrosword",
-		"price": 2608,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "Vibrosword"
 	},
 	{
 		"abr": "westar-34blasterpistol",
-		"price": 2500,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Westar-34_Blaster_Pistol"
 	},
 	{
 		"abr": "westar-35blasterpistol",
-		"price": 2500,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Westar-35_Blaster_Pistol"
 	},
 	{
 		"abr": "westar-m5_blasterrifle",
-		"price": 5000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Westar-M5_Blaster_Rifle"
 	},
 	{
 		"abr": "wookie",
-		"price": 4583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "StarWarsRaces_Wookie"
 	},
 	{
 		"abr": "wookiebandolier",
-		"price": 124,
+		"price": -10,
 		"category": "Star Wars Races - Wookie",
 		"defname": "StarWarsRaces_Wookie_Bandolier"
 	},
@@ -7886,787 +7886,787 @@
 	},
 	{
 		"abr": "z6rotaryblastercannon",
-		"price": 5417,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Z6_Rotary_Blaster_Cannon"
 	},
 	{
 		"abr": "animaldevilbed",
-		"price": 825,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AnimalMedicRobo"
 	},
 	{
 		"abr": "animalherbalbed",
-		"price": 333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AnimalMedic"
 	},
 	{
 		"abr": "bunker",
-		"price": 1575,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ra2_Bunker"
 	},
 	{
 		"abr": "ceilinggrowlight",
-		"price": 184,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Lighting_CeilingGrowLight"
 	},
 	{
 		"abr": "cyberneticbed",
-		"price": 6683,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "IIMed"
 	},
 	{
 		"abr": "doormat",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatLeather"
 	},
 	{
 		"abr": "doormat(blue)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBlue"
 	},
 	{
 		"abr": "doormat(green)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatGreen"
 	},
 	{
 		"abr": "doormat(orange)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatOrange"
 	},
 	{
 		"abr": "doormat(red)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatRed"
 	},
 	{
 		"abr": "doormat(teal)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatTeal"
 	},
 	{
 		"abr": "electricrepairbench",
-		"price": 583,
+		"price": -10,
 		"category": "Production",
 		"defname": "ElectricTableRepair"
 	},
 	{
 		"abr": "glitterworldmedkit",
-		"price": 2500,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "UltraMedKit"
 	},
 	{
 		"abr": "herbalbed",
-		"price": 475,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "HerbBede"
 	},
 	{
 		"abr": "largedoormat",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigLeather"
 	},
 	{
 		"abr": "largedoormat(blue)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigBlue"
 	},
 	{
 		"abr": "largedoormat(green)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigGreen"
 	},
 	{
 		"abr": "largedoormat(orange)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigOrange"
 	},
 	{
 		"abr": "largedoormat(red)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigRed"
 	},
 	{
 		"abr": "largedoormat(teal)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigTeal"
 	},
 	{
 		"abr": "magneticshield",
-		"price": 1633,
+		"price": -10,
 		"category": "Power",
 		"defname": "Building_RTMagneticShield"
 	},
 	{
 		"abr": "medicinebag",
-		"price": 233,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "MedicineBag"
 	},
 	{
 		"abr": "medkit",
-		"price": 333,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "MedicalKit"
 	},
 	{
 		"abr": "over-wallprog.vent",
-		"price": 214,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ProgrammableVentOW"
 	},
 	{
 		"abr": "prog.vent",
-		"price": 214,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ProgrammableVent"
 	},
 	{
 		"abr": "repairkit",
-		"price": 6,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "RepairKit"
 	},
 	{
 		"abr": "repairkit",
-		"price": 250,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "DubsRepairKit"
 	},
 	{
 		"abr": "roboticbed",
-		"price": 1717,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "MedBed"
 	},
 	{
 		"abr": "salvagedcomponent",
-		"price": 35,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SalvagedComponent"
 	},
 	{
 		"abr": "40mmcannon",
-		"price": 1333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Mech40MMCannon"
 	},
 	{
 		"abr": "advandroidassemblykit",
-		"price": 3667,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "AndroidT2Kit"
 	},
 	{
 		"abr": "advancedbatterypack",
-		"price": 2833,
+		"price": -10,
 		"category": "Android",
 		"defname": "NanowireBattery"
 	},
 	{
 		"abr": "advancedbio-reactor",
-		"price": 2833,
+		"price": -10,
 		"category": "Android",
 		"defname": "HighPowerTransformer"
 	},
 	{
 		"abr": "advancedcoolantpump",
-		"price": 2500,
+		"price": -10,
 		"category": "Android",
 		"defname": "AdvancedCoolantInjector"
 	},
 	{
 		"abr": "advancedcounterweight",
-		"price": 2500,
+		"price": -10,
 		"category": "Android",
 		"defname": "AdvRearCounterweight"
 	},
 	{
 		"abr": "advancedhearingsensor",
-		"price": 2000,
+		"price": -10,
 		"category": "Android",
 		"defname": "AdvHearingS"
 	},
 	{
 		"abr": "advancedheatsink",
-		"price": 2500,
+		"price": -10,
 		"category": "Android",
 		"defname": "MultiLayerHeatsink"
 	},
 	{
 		"abr": "advancedlightsensor",
-		"price": 3000,
+		"price": -10,
 		"category": "Android",
 		"defname": "MultiSpectrumEye"
 	},
 	{
 		"abr": "advancedmechanitestorage",
-		"price": 2500,
+		"price": -10,
 		"category": "Android",
 		"defname": "NaniteStorageDevice"
 	},
 	{
 		"abr": "advancednanokit",
-		"price": 125,
+		"price": -10,
 		"category": "Medicine",
 		"defname": "ATPP_AndroidNanokitAdvanced"
 	},
 	{
 		"abr": "advancedpowerconverter",
-		"price": 2833,
+		"price": -10,
 		"category": "Android",
 		"defname": "HighPowerConverter"
 	},
 	{
 		"abr": "advancedsmellingsensor",
-		"price": 1333,
+		"price": -10,
 		"category": "Android",
 		"defname": "SmellingAdvS"
 	},
 	{
 		"abr": "agriculturalimplant",
-		"price": 3333,
+		"price": -10,
 		"category": "Android",
 		"defname": "FarmingMindImplant"
 	},
 	{
 		"abr": "androidassemblykit",
-		"price": 2250,
+		"price": 20000,
 		"category": "Items",
 		"defname": "AndroidT1Kit"
 	},
 	{
 		"abr": "androidchargingstation",
-		"price": 1375,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_ReloadStation"
 	},
 	{
 		"abr": "androidimplantsworkbench",
-		"price": 675,
+		"price": -10,
 		"category": "Production",
 		"defname": "AndroidOtherStuffTable"
 	},
 	{
 		"abr": "androidpartsworkbench",
-		"price": 417,
+		"price": -10,
 		"category": "Production",
 		"defname": "AndroidPartsTable"
 	},
 	{
 		"abr": "androidpod",
-		"price": 282,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ATPP_AndroidPod"
 	},
 	{
 		"abr": "androidupgradestation",
-		"price": 1142,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AndroidOperationBed"
 	},
 	{
 		"abr": "anestheticgun",
-		"price": 508,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_AnestheticGun"
 	},
 	{
 		"abr": "anti-mechrifle",
-		"price": 1500,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "AntiMechRifle"
 	},
 	{
 		"abr": "archotecharchotechbio-reactor",
-		"price": 6667,
+		"price": -10,
 		"category": "Android",
 		"defname": "MolecularDecomposer"
 	},
 	{
 		"abr": "archotechbatterypack",
-		"price": 5333,
+		"price": -10,
 		"category": "Android",
 		"defname": "SecretBatteryPack"
 	},
 	{
 		"abr": "archotechcoolantpump",
-		"price": 6667,
+		"price": -10,
 		"category": "Android",
 		"defname": "SecretCoolantPump"
 	},
 	{
 		"abr": "archotechhearingsensor",
-		"price": 3667,
+		"price": -10,
 		"category": "Android",
 		"defname": "ArchHearingS"
 	},
 	{
 		"abr": "archotechheatsink",
-		"price": 7500,
+		"price": -10,
 		"category": "Android",
 		"defname": "SecretHeatsink"
 	},
 	{
 		"abr": "archotechlightsensor",
-		"price": 7500,
+		"price": -10,
 		"category": "Android",
 		"defname": "MDEye"
 	},
 	{
 		"abr": "archotechmechanitestorage",
-		"price": 7500,
+		"price": -10,
 		"category": "Android",
 		"defname": "ArchotechNanites"
 	},
 	{
 		"abr": "archotechpowerconverter",
-		"price": 5833,
+		"price": -10,
 		"category": "Android",
 		"defname": "QuantumConverter"
 	},
 	{
 		"abr": "artificialbraint1",
-		"price": 250,
+		"price": -10,
 		"category": "Android",
 		"defname": "ATPP_T1ArtificialBrain"
 	},
 	{
 		"abr": "artificialbraint2",
-		"price": 417,
+		"price": -10,
 		"category": "Android",
 		"defname": "ATPP_T2ArtificialBrain"
 	},
 	{
 		"abr": "artificialbraint3",
-		"price": 833,
+		"price": -10,
 		"category": "Android",
 		"defname": "ATPP_T3ArtificialBrain"
 	},
 	{
 		"abr": "artificialbraint4",
-		"price": 1667,
+		"price": -10,
 		"category": "Android",
 		"defname": "ATPP_T4ArtificialBrain"
 	},
 	{
 		"abr": "basiccounterweight",
-		"price": 1167,
+		"price": -10,
 		"category": "Android",
 		"defname": "BasicRearCounterweight"
 	},
 	{
 		"abr": "basiclaborchip",
-		"price": 2000,
+		"price": -10,
 		"category": "Android",
 		"defname": "BasicLaborMindImplant"
 	},
 	{
 		"abr": "basicnanokit",
-		"price": 17,
+		"price": -10,
 		"category": "Medicine",
 		"defname": "ATPP_AndroidNanokitBasic"
 	},
 	{
 		"abr": "basicreplacementarm",
-		"price": 833,
+		"price": -10,
 		"category": "Android",
 		"defname": "BasicReplacementArm"
 	},
 	{
 		"abr": "basicreplacementleg",
-		"price": 833,
+		"price": -10,
 		"category": "Android",
 		"defname": "BasicReplacementLeg"
 	},
 	{
 		"abr": "birthcontrol",
-		"price": 17,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "BirthControl"
 	},
 	{
 		"abr": "blackboard",
-		"price": 358,
+		"price": -10,
 		"category": "Production",
 		"defname": "Blackboard"
 	},
 	{
 		"abr": "blueprintsimplant",
-		"price": 2667,
+		"price": -10,
 		"category": "Android",
 		"defname": "BuilderMindImplant"
 	},
 	{
 		"abr": "charismaimplant",
-		"price": 1667,
+		"price": -10,
 		"category": "Android",
 		"defname": "CharismaMindImplant"
 	},
 	{
 		"abr": "chemicalcapsule",
-		"price": 17,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "ChemicalEgg"
 	},
 	{
 		"abr": "chemicalprocessingunit",
-		"price": 1333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AndroidChicken"
 	},
 	{
 		"abr": "compositeframeplating",
-		"price": 1667,
+		"price": -10,
 		"category": "Android",
 		"defname": "CompositePlating"
 	},
 	{
 		"abr": "corpselocker",
-		"price": 392,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_CorpseLocker"
 	},
 	{
 		"abr": "crate",
-		"price": 54,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_Crate"
 	},
 	{
 		"abr": "crudebatterypack",
-		"price": 667,
+		"price": -10,
 		"category": "Android",
 		"defname": "SmallBatteryPack"
 	},
 	{
 		"abr": "crudebio-reactor",
-		"price": 667,
+		"price": -10,
 		"category": "Android",
 		"defname": "LowPowerTransformer"
 	},
 	{
 		"abr": "crudecoolantpump",
-		"price": 667,
+		"price": -10,
 		"category": "Android",
 		"defname": "FlimsyCoolantPump"
 	},
 	{
 		"abr": "crudehearingsensor",
-		"price": 500,
+		"price": -10,
 		"category": "Android",
 		"defname": "CrudeHearingS"
 	},
 	{
 		"abr": "crudeheatsink",
-		"price": 500,
+		"price": -10,
 		"category": "Android",
 		"defname": "CrudeHeatsink"
 	},
 	{
 		"abr": "crudejaw",
-		"price": 1167,
+		"price": -10,
 		"category": "Android",
 		"defname": "CrudeJawAndroid"
 	},
 	{
 		"abr": "crudelightsensor",
-		"price": 333,
+		"price": -10,
 		"category": "Android",
 		"defname": "LightReceivingDiode"
 	},
 	{
 		"abr": "crudemechanitestorage",
-		"price": 667,
+		"price": -10,
 		"category": "Android",
 		"defname": "TubeSealantTank"
 	},
 	{
 		"abr": "crudepowerconverter",
-		"price": 500,
+		"price": -10,
 		"category": "Android",
 		"defname": "BasicDCConverter"
 	},
 	{
 		"abr": "cuisineimplant",
-		"price": 2667,
+		"price": -10,
 		"category": "Android",
 		"defname": "CookingMindImplant"
 	},
 	{
 		"abr": "cyberneticarm",
-		"price": 10000,
+		"price": -10,
 		"category": "Android",
 		"defname": "CyberReplacementArm"
 	},
 	{
 		"abr": "cyberneticjaw",
-		"price": 3333,
+		"price": -10,
 		"category": "Android",
 		"defname": "AdvJawAndroid"
 	},
 	{
 		"abr": "cyberneticleg",
-		"price": 9167,
+		"price": -10,
 		"category": "Android",
 		"defname": "CyberReplacementLeg"
 	},
 	{
 		"abr": "engineeringimplant",
-		"price": 3333,
+		"price": -10,
 		"category": "Android",
 		"defname": "MechanicMindImplant"
 	},
 	{
 		"abr": "evolvingaiupgrade",
-		"price": 5833,
+		"price": -10,
 		"category": "Android",
 		"defname": "EvolvingImplant"
 	},
 	{
 		"abr": "fertilitybooster",
-		"price": 25,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "FertilityBooster"
 	},
 	{
 		"abr": "fractalenhancement",
-		"price": 1333,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "FractalPill"
 	},
 	{
 		"abr": "geologicalimplant",
-		"price": 3333,
+		"price": -10,
 		"category": "Android",
 		"defname": "GeoMindImplant"
 	},
 	{
 		"abr": "handcannon",
-		"price": 1333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "MechHandCannon"
 	},
 	{
 		"abr": "heavydutyshelf",
-		"price": 158,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_HDShelf"
 	},
 	{
 		"abr": "highpowerarm",
-		"price": 2500,
+		"price": -10,
 		"category": "Android",
 		"defname": "AdvancedReplacementArm"
 	},
 	{
 		"abr": "highpowerleg",
-		"price": 3000,
+		"price": -10,
 		"category": "Android",
 		"defname": "AdvancedReplacementLeg"
 	},
 	{
 		"abr": "hydraulicarm",
-		"price": 1167,
+		"price": -10,
 		"category": "Android",
 		"defname": "HydraulicArm"
 	},
 	{
 		"abr": "hydraulicframe",
-		"price": 1667,
+		"price": -10,
 		"category": "Android",
 		"defname": "HydraulicFrame"
 	},
 	{
 		"abr": "hydraulicleg",
-		"price": 1167,
+		"price": -10,
 		"category": "Android",
 		"defname": "HydraulicLeg"
 	},
 	{
 		"abr": "i-100(hacking)",
-		"price": 1383,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_I100Hacking"
 	},
 	{
 		"abr": "i-100(security)",
-		"price": 1017,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_I100Security"
 	},
 	{
 		"abr": "i-100(skill)",
-		"price": 1383,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_I100Skill"
 	},
 	{
 		"abr": "i-300(hacking)",
-		"price": 2892,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_I300Hacking"
 	},
 	{
 		"abr": "i-300(security)",
-		"price": 2175,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_I300Security"
 	},
 	{
 		"abr": "i-300(skill)",
-		"price": 2892,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_I300Skill"
 	},
 	{
 		"abr": "i-500(hacking)",
-		"price": 5575,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_I500Hacking"
 	},
 	{
 		"abr": "i-500(security)",
-		"price": 4117,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_I500Security"
 	},
 	{
 		"abr": "i-500(skill)",
-		"price": 5575,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_I500Skill"
 	},
 	{
 		"abr": "intermediatenanokit",
-		"price": 30,
+		"price": -10,
 		"category": "Medicine",
 		"defname": "ATPP_AndroidNanokitIntermediate"
 	},
 	{
 		"abr": "k-9cyberneticunit",
-		"price": 14167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AndroidDog"
 	},
 	{
 		"abr": "largestrongbox",
-		"price": 210,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_LargeStrongbox"
 	},
 	{
 		"abr": "longheavydutyshelf",
-		"price": 194,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_HDLongShelf"
 	},
 	{
 		"abr": "longrack",
-		"price": 174,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_LongRack"
 	},
 	{
 		"abr": "longresourcerack",
-		"price": 295,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_LongResourceRack"
 	},
 	{
 		"abr": "longshelf",
-		"price": 157,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_LongShelf"
 	},
 	{
 		"abr": "m.u.f.funit",
-		"price": 2000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AndroidMuff"
 	},
 	{
 		"abr": "m7mechanisedinfantry",
-		"price": 30000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M7Mech"
 	},
 	{
 		"abr": "m7pod",
-		"price": 1483,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ATPP_AndroidPodMech"
 	},
 	{
 		"abr": "mastiffshotgun",
-		"price": 1333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "MechMastiffGun"
 	},
 	{
 		"abr": "mechaniteswarm",
-		"price": 33,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "MechSwarm"
 	},
 	{
 		"abr": "medicinecabinet",
-		"price": 174,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_MedicineCabinet"
 	},
 	{
 		"abr": "mediumshelf",
-		"price": 106,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_Shelf"
 	},
 	{
 		"abr": "metallicwool",
-		"price": 8,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "SteelWool"
 	},
 	{
 		"abr": "microscyther",
-		"price": 67,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MicroScyther"
 	},
 	{
 		"abr": "miningarm",
-		"price": 1667,
+		"price": -10,
 		"category": "Android",
 		"defname": "MiningArm"
 	},
 	{
 		"abr": "mono-salvepill",
-		"price": 133,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "RegenPillAt"
 	},
 	{
 		"abr": "n.solutionunit",
-		"price": 2667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RoboticCow"
 	},
@@ -8678,295 +8678,295 @@
 	},
 	{
 		"abr": "nanitesbank(cooling)",
-		"price": 583,
+		"price": -10,
 		"category": "Items",
 		"defname": "ATPP_NanitesCoolingSerum"
 	},
 	{
 		"abr": "nanitesbank(cpu)",
-		"price": 583,
+		"price": -10,
 		"category": "Items",
 		"defname": "ATPP_NanitesCPUSerum"
 	},
 	{
 		"abr": "nanitesbank(framework)",
-		"price": 583,
+		"price": -10,
 		"category": "Items",
 		"defname": "ATPP_NanitesFrameSerum"
 	},
 	{
 		"abr": "nanitesbank(hydraulic)",
-		"price": 583,
+		"price": -10,
 		"category": "Items",
 		"defname": "ATPP_NanitesHydraulicSerum"
 	},
 	{
 		"abr": "negotiatorimplant",
-		"price": 2667,
+		"price": -10,
 		"category": "Android",
 		"defname": "NegotiationMindImplant"
 	},
 	{
 		"abr": "nestingbox",
-		"price": 154,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_NestingBox"
 	},
 	{
 		"abr": "neuralhighways",
-		"price": 2667,
+		"price": -10,
 		"category": "Android",
 		"defname": "SpeedMindImplant"
 	},
 	{
 		"abr": "nutrientsolution",
-		"price": 13,
+		"price": -10,
 		"category": "Animal products",
 		"defname": "NSolution"
 	},
 	{
 		"abr": "orbitalmech-falltargeter",
-		"price": 4000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterMechFall"
 	},
 	{
 		"abr": "phytominingunit",
-		"price": 2667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RoboticSheep"
 	},
 	{
 		"abr": "plasteelframecoverings",
-		"price": 1333,
+		"price": -10,
 		"category": "Android",
 		"defname": "PlasteelPlating"
 	},
 	{
 		"abr": "polymerantifreeze",
-		"price": 17,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Antifreeze"
 	},
 	{
 		"abr": "positronicrewiring",
-		"price": 2667,
+		"price": -10,
 		"category": "Android",
 		"defname": "PositronMindImplant"
 	},
 	{
 		"abr": "pregnancytest",
-		"price": 12,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "PregnancyTest"
 	},
 	{
 		"abr": "rack",
-		"price": 157,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_Rack"
 	},
 	{
 		"abr": "resourcerack",
-		"price": 192,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_ResourceRack"
 	},
 	{
 		"abr": "roboticsproductioncasket",
-		"price": 900,
+		"price": -10,
 		"category": "Production",
 		"defname": "AndroidProductionVat"
 	},
 	{
 		"abr": "rxneuralchip",
-		"price": 250,
+		"price": -10,
 		"category": "Android",
 		"defname": "ATPP_RXChip"
 	},
 	{
 		"abr": "schooltable",
-		"price": 281,
+		"price": -10,
 		"category": "Production",
 		"defname": "SchoolTable"
 	},
 	{
 		"abr": "skycloudcore",
-		"price": 27617,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_SkyCloudCore"
 	},
 	{
 		"abr": "skymindrelaytower",
-		"price": 1292,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_SkyMindRelayTower"
 	},
 	{
 		"abr": "skymindv1antenna",
-		"price": 1400,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_SkyMindLAN"
 	},
 	{
 		"abr": "skymindv2antenna",
-		"price": 4967,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_SkyMindWAN"
 	},
 	{
 		"abr": "soldierimplant",
-		"price": 2667,
+		"price": -10,
 		"category": "Android",
 		"defname": "SoldierMindImplant"
 	},
 	{
 		"abr": "sraf:canary",
-		"price": 51442,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRAF"
 	},
 	{
 		"abr": "sraf:tek-7",
-		"price": 99058,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRAFTek"
 	},
 	{
 		"abr": "srtsmk.i:skip",
-		"price": 9542,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSSkip"
 	},
 	{
 		"abr": "srtsmk.ii:albatross",
-		"price": 76842,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkII"
 	},
 	{
 		"abr": "srtsmk.iii:phoenix",
-		"price": 148275,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkIII"
 	},
 	{
 		"abr": "srtsmk.iiip:pelican",
-		"price": 119192,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkIIIp"
 	},
 	{
 		"abr": "srtsmk.iv:genesis",
-		"price": 372767,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkIV"
 	},
 	{
 		"abr": "srts:dimensionalcomponents",
-		"price": 40000,
+		"price": -10,
 		"category": "Shuttle components",
 		"defname": "ShuttleComp_DimShift"
 	},
 	{
 		"abr": "srts:electricalcomponents",
-		"price": 1583,
+		"price": -10,
 		"category": "Shuttle components",
 		"defname": "ShuttleComp_ElectricSystem"
 	},
 	{
 		"abr": "srts:enginecomponents",
-		"price": 1583,
+		"price": -10,
 		"category": "Shuttle components",
 		"defname": "ShuttleComp_Engines"
 	},
 	{
 		"abr": "srts:internalcomponents",
-		"price": 1583,
+		"price": -10,
 		"category": "Shuttle components",
 		"defname": "ShuttleComp_Structural"
 	},
 	{
 		"abr": "srts:mechanicalcomponents",
-		"price": 1583,
+		"price": -10,
 		"category": "Shuttle components",
 		"defname": "ShuttleComp_MechSystem"
 	},
 	{
 		"abr": "srts:neuralmeshplates",
-		"price": 7000,
+		"price": -10,
 		"category": "Shuttle components",
 		"defname": "ShuttleComp_MeshPlate"
 	},
 	{
 		"abr": "srts:nuclearreactorcomponents",
-		"price": 40000,
+		"price": -10,
 		"category": "Shuttle components",
 		"defname": "ShuttleComp_Reactor"
 	},
 	{
 		"abr": "srts:steelplates",
-		"price": 1583,
+		"price": -10,
 		"category": "Shuttle components",
 		"defname": "ShuttleComp_Plates"
 	},
 	{
 		"abr": "steelframing",
-		"price": 833,
+		"price": -10,
 		"category": "Android",
 		"defname": "SteelPlating"
 	},
 	{
 		"abr": "strongbox",
-		"price": 176,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CCPSS_Strongbox"
 	},
 	{
 		"abr": "structuregel",
-		"price": 58,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "StructureGel"
 	},
 	{
 		"abr": "superpod",
-		"price": 4150,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSSuperpod"
 	},
 	{
 		"abr": "swarmshell",
-		"price": 292,
+		"price": -10,
 		"category": "Mortar shells",
 		"defname": "Nanoswarm_shell"
 	},
 	{
 		"abr": "t1android",
-		"price": 2333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android1Tier"
 	},
 	{
 		"abr": "t2android",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android2Tier"
 	},
 	{
 		"abr": "t3android",
-		"price": 8000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android3Tier"
 	},
 	{
 		"abr": "t4android",
-		"price": 10000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android4Tier"
 	},
 	{
 		"abr": "t5android",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android5Tier"
 	},
@@ -8978,76 +8978,82 @@
 	},
 	{
 		"abr": "techprint(archotechshipcomponents)",
-		"price": 7500,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_Research_SRTSArchoComps"
 	},
 	{
 		"abr": "techprint(srtsmk.iv)",
-		"price": 5833,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_Research_SRTSMkIV"
 	},
 	{
 		"abr": "techprint(thepelican)",
-		"price": 3400,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_Research_SRTSMkIIIp"
 	},
 	{
 		"abr": "techprint(thephoenix)",
-		"price": 4600,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_Research_SRTSMkIII"
 	},
 	{
 		"abr": "tricorderimplant",
-		"price": 2667,
+		"price": -10,
 		"category": "Android",
 		"defname": "SurgeonMindImplant"
 	},
 	{
 		"abr": "upgradecabinet",
-		"price": 717,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AndroidOperationKit"
 	},
 	{
 		"abr": "upgradekit",
-		"price": 50,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "RepairKitAT"
 	},
 	{
 		"abr": "vx0neuralchip",
-		"price": 417,
+		"price": -10,
 		"category": "Android",
 		"defname": "ATPP_VX0Chip"
 	},
 	{
 		"abr": "vx1neuralchip",
-		"price": 1333,
+		"price": -10,
 		"category": "Android",
 		"defname": "ATPP_VX1Chip"
 	},
 	{
 		"abr": "vx2neuralchip",
-		"price": 3333,
+		"price": -10,
 		"category": "Android",
 		"defname": "ATPP_VX2Chip"
 	},
 	{
 		"abr": "vx3neuralchip",
-		"price": 6667,
+		"price": -10,
 		"category": "Android",
 		"defname": "ATPP_VX3Chip"
 	},
 	{
 		"abr": "zoologyimplant",
-		"price": 2667,
+		"price": -10,
 		"category": "Android",
 		"defname": "AnimalMindImplant"
 	},
+	{
+		"abr": "zombrella",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Zombrella"
+	}
 	],
-	"total": 8534
+	"total": 8535
 }
